@@ -17,9 +17,14 @@ This container is based on kali-rolling with these additionnal tools :
 * sqlmap
 * python 2 and 3
 * netcat
-* IP tools : ip, ifconfig, ping, route etc...
 * curl
 * ssh client
 * nikto
 * linux-smart-enumeration 
 * LinEnum
+* Basic linux tools : 
+  * ip 
+  * ifconfig 
+  * ping
+  * ps
+  * etc...
